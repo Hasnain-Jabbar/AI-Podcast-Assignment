@@ -1,0 +1,57 @@
+.section2{
+    background-color: #fef5f5;
+    padding:56px  0 ;
+    width: 100%;
+    margin-bottom: 25px;
+}
+.podcast-voice{
+    height:45px ;
+}
+#hand-lock{
+    margin-left: 16%;
+    position: absolute;
+    width: 20%;
+}
+#speaker2{
+    width: 15%;
+    height: 42%;
+    justify-content: center;
+    margin-left: 15%;
+}
+#speaker1{
+    width: 20%;
+    height: 55%;
+    justify-content: center;
+}
+.delivery{
+    width: 144px;
+    height: 103px;
+    left: 45%;
+}
+.card{
+    min-height: 105%;
+}
+.plane{
+    position: absolute;
+    right: 0;
+    width: 20%;
+    z-index: 100;
+}
+.arrow{
+    position: absolute;
+    right: 4%;
+    top: 170%;
+    width: 8%
+}
+@media screen and (min-width:992px)
+{
+    .l-sec{
+    position: absolute;
+    left: 40%;
+    top: 52%;
+    }
+}
+#arrow-down{
+    position: absolute;
+    left: 38%;
+}
