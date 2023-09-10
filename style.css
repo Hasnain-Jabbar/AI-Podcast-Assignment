@@ -56,6 +56,6 @@
     left: 38%;
     top: 90%;
 }
-.card{
+.card:hover{
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
