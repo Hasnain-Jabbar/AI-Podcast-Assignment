@@ -13,15 +13,14 @@
     width: 20%;
 }
 #speaker2{
-    width: 15%;
-    height: 42%;
-    justify-content: center;
-    margin-left: 15%;
+    margin-left: 25%;
+    width: 14%;
 }
 #speaker1{
-    width: 20%;
-    height: 55%;
-    justify-content: center;
+    margin-left: -34%;
+    margin-top: 6%;
+    position: absolute;
+    width: 23%;
 }
 .delivery{
     width: 144px;
@@ -49,6 +48,17 @@
     position: absolute;
     left: 40%;
     top: 52%;
+    }
+}
+@media screen and (max-width:991px) {
+    .dowload-pic{
+        width: 50px;
+    }
+}
+@media screen and (max-width:990px) {
+    .row .image-1 img{
+        width: 60%;
+        margin-bottom: 0%;
     }
 }
 #arrow-down{
